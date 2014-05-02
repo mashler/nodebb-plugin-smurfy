@@ -1,11 +1,11 @@
-# Spoilers for NodeBB
+# Smurfy for NodeBB
 
-Allows you to embed spoilers in NodeBB post content. Just use the following syntax, which is similar to that found on StackExchange.
+Allows you to embed smurfy mechlab mech layout in NodeBB post content. Just use the following syntax.
 
 ```
->! spoiler text here
+>! [smurfy]http://mwo.smurfy-net.de/mechlab#i=151&l=ffa1d2403397c83bfeef91834ccda25001815051[/smurfy]
 ```
 
 ## Installation
 
-    npm install nodebb-plugin-spoilers
+    npm install nodebb-plugin-smufry
