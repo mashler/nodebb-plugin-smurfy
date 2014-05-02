@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-smurfy",
+	"name": "Smurfy for NodeBB",
+	"description": "Allows you to use smurfy mechlab in nodebb",
+	"url": "https://",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true, "priority": 0 }
+	],
+	"staticDir": "./static",
+	"less": [
+    	"./static/smurfy.less"
+    ]
+}

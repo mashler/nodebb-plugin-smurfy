@@ -1,0 +1,35 @@
+{
+  "name": "nodebb-plugin-smurfy",
+  "version": "0.0.1",
+  "description": "Smurfy for NodeBB",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mashler/nodebb-plugin-smurfy"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "spoiler",
+    "text"
+  ],
+  "author": {
+    "name": "mashler",
+    "email": "alpha.kalin@gmail.com"
+  },
+  "license": "GPL V2",
+  "bugs": {
+    "url": "https://github.com/mashler/nodebb-plugin-smurfy/issues"
+  },
+  "readme": "# Smurfy for NodeBB\r\n\r\nAllows you to embed smufy's mechlab mech layout in NodeBB post content.",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-smurfy@0.0.1",
+  "_from": "nodebb-plugin-smurfy@",
+  "dist": {
+    "shasum": "e72fb60eb2e94764be342a2ca939223f6f2dfa25"
+  },
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-smurfy/-/nodebb-plugin-smurfy-0.0.1.tgz"
+}
